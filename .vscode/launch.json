@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/CSE-301",
+      "program": "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/CSE-301/build/Debug/outDebug"
+    }
+  ]
+}

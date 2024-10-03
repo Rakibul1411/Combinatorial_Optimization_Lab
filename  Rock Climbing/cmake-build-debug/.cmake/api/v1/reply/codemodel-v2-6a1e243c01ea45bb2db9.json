@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_Rock_Climbing",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_Rock_Climbing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_Rock_Climbing-Debug-872d80a1e65f7b6ca7b9.json",
+					"name" : "_Rock_Climbing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/CSE-301/ Rock Climbing/cmake-build-debug",
+		"source" : "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/CSE-301/ Rock Climbing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
