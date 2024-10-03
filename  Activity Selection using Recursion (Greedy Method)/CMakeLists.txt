@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(_Activity_Selection_using_Recursion__Greedy_Method_ C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(_Activity_Selection_using_Recursion__Greedy_Method_ main.c)

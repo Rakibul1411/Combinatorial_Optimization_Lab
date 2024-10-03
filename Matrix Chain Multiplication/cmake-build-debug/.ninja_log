@@ -1,0 +1,10 @@
+# ninja log v5
+438	481	1692989603861655288	Matrix_Chain_Multiplication	b78029217b667471
+2	437	1692989603814937370	CMakeFiles/Matrix_Chain_Multiplication.dir/main.cpp.o	eb8bd30e6d0a999
+0	58	1692989761036869226	build.ninja	9aa6cdbd30f90dbd
+1	473	1693165902427492098	CMakeFiles/Matrix_Chain_Multiplication.dir/main.cpp.o	eb8bd30e6d0a999
+474	511	1693165902488823005	Matrix_Chain_Multiplication	b78029217b667471
+1	292	1693165921996796485	CMakeFiles/Matrix_Chain_Multiplication.dir/main.cpp.o	eb8bd30e6d0a999
+293	321	1693165922027556235	Matrix_Chain_Multiplication	b78029217b667471
+2	437	1693167380716199823	CMakeFiles/Matrix_Chain_Multiplication.dir/main.cpp.o	eb8bd30e6d0a999
+439	479	1693167380760274584	Matrix_Chain_Multiplication	b78029217b667471

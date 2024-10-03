@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(_Longest_Common_Subsequences__LCS__Length_Print___DP__)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(_Longest_Common_Subsequences__LCS__Length_Print___DP__ main.cpp)

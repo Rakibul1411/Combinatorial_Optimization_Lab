@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(__Longest_Increasing_Subsequences__LIS__solve_by_LCS___DP__)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(__Longest_Increasing_Subsequences__LIS__solve_by_LCS___DP__ main.cpp)

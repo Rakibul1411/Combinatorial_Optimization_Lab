@@ -1,0 +1,7 @@
+# ninja log v5
+0	130	1692641042354125359	CMakeFiles/_0_1_Kapsack_Problem.dir/main.c.o	484a972626bc6f41
+131	168	1692641042394782979	_0_1_Kapsack_Problem	9c409dd413626dbe
+137	175	1692649117155484978	_0_1_Kapsack_Problems	5e7888c5eaa9436c
+0	137	1692649117115312597	CMakeFiles/_0_1_Kapsack_Problems.dir/0-1_knapsack_using_bactracking.c.o	2bdcb97b3bb7a85d
+0	162	1692990296170389330	CMakeFiles/_0_1_Kapsack_Problems.dir/0-1_knapsack_using_bactracking.c.o	7ebe13e8d2331ab
+162	199	1692990296209964490	_0_1_Kapsack_Problems	5e7888c5eaa9436c

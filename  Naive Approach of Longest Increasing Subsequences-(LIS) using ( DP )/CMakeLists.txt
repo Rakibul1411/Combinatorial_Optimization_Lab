@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(_Naive_Approach_of_Longest_Increasing_Subsequences__LIS__using___DP__)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(_Naive_Approach_of_Longest_Increasing_Subsequences__LIS__using___DP__ main.cpp)
